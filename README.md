@@ -464,7 +464,3 @@ public class MainApp {
         }
     }
 }
-
-   mvn exec:java -Dexec.mainClass="com.kdelectronics.app.MainApp"
-
-Si no usa Maven, compilar con javac y ejecutar incluyendo el .j
